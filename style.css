@@ -1,0 +1,15 @@
+#sort {display: none;}
+#answer {
+    border: 1px solid greenyellow;
+    width: 50%;
+    padding: 10px;
+    background-color: aquamarine;
+    border-radius: 12px;
+}
+#none {
+    border: 1px solid cyan;
+    width: 50%;
+    padding: 10px;
+    background-color: chartreuse;
+    border-radius: 12px;
+}
